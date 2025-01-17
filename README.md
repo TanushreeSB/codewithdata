@@ -1,10 +1,11 @@
 # codewithdata
 This repo contains the python files of my practice while learning fundamentals of Data Science.
-1] Numpy
 
-2] Pandas
+1] Numpy: data types, matrix operations, slicing, transpose,Tensors
 
-3] OpenCV
+2] Pandas: dataframe creation,null values, DF indexing
+
+3] OpenCV: image color space, edge detection, image manipulation
 
 4] Data Visualisation
 - barplots
