@@ -13,3 +13,5 @@ This repo contains the python files of my practice while learning fundamentals o
 - 3D plots
 - line plot
 - Scatter PLot
+  
+Data Set: https://www.kaggle.com/datasets/shubh0799/churn-modelling
