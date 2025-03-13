@@ -15,3 +15,6 @@ This repo contains the python files of my practice while learning fundamentals o
 - Scatter PLot
   
 Data Set: https://www.kaggle.com/datasets/shubh0799/churn-modelling
+
+## Working with datasets:
+1)Irish Wildlife Statistics: https://www.kaggle.com/datasets/vincent1337/irish-wildlife-statistics
